@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carmelo Garofalo, @carmelogarofalo
 - 📚 I'm currently studing Computer Science at the University of Pisa
-- 📱 I'm very interested in the field of android application development
+- 📱 I'm very interested in the field of mobile application development
 - 📫 How to reach me: carmelog0109@hotmail.com
